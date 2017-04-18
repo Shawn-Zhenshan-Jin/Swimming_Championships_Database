@@ -16,7 +16,7 @@ PostgreSQL(For Linux User):
 2. import swim.sql: \i swim.sql
 
 ## ER Diagram
-![alt tag](https://github.com/Shawn-Zhenshan-Jin/Swimming_Championships_Database/files/931089/Assignment.4.ERD.solution.revised.pdf)
+![alt tag](https://github.com/Shawn-Zhenshan-Jin/Swimming_Championships_Database/issues/2)
 
 
 
