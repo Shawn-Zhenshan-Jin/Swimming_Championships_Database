@@ -1,5 +1,7 @@
 ## Database Description:
-
+* PostgreSQL database for swimming championhsips
+* All the tables creation, queries and error checking are defined in swim.sql file
+* User interface is defined in .py
 
 ## HOW TO USE:
 Python:
